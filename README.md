@@ -54,6 +54,9 @@
 <p align="Center">
     <a href="https://md-siam.github.io/puzzle_hack/" target="_blank"><img src="screenshots/images/PlayNow.png"/></a>
 </p>
+<p align="Center">
+    <a href="https://md-siam.github.io/puzzle_hack/" target="_blank"><img src="screenshots/images/PlayNow.png"/></a>
+</p>
 ## Puzzle Hack Demo
 
 <table align="center" style="margin: 0px auto;">
